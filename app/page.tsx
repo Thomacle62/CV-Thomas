@@ -16,7 +16,7 @@ export default function Home() {
         <aside id="col-gauche">
           <div className="cadre-profil">
             <Image
-              src="/photocv.jpg"
+              src="./photocv1.jpg"
               alt="Photo de Thomas Calujek"
               width={180}
               height={180}
